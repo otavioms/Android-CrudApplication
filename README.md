@@ -2,4 +2,4 @@
 
 > Status do projeto: Finalizado!
 
-Projeto Android feito em java utilizando o SQLite.
+Projeto Android feito em Java utilizando o SQLite.
